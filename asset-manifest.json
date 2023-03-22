@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.2887fed9.js",
-    "index.html": "/index.html",
-    "main.2887fed9.js.map": "/static/js/main.2887fed9.js.map"
+    "main.js": "/react-gh-pages/static/js/main.2887fed9.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.2887fed9.js.map": "/react-gh-pages/static/js/main.2887fed9.js.map"
   },
   "entrypoints": [
     "static/js/main.2887fed9.js"
